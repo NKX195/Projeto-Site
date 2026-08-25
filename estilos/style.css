@@ -7,6 +7,10 @@ body {
     background-color:rgb(20, 3, 3);
 }
 
+img.lado {
+    float: right;
+}
+
 main {
     background-color: aliceblue;
     width: 500px;
